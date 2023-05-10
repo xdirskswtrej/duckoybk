@@ -30,4 +30,4 @@ jobs:
         with:
           push: true
           platforms: linux/amd64
-          tags: aryoumissdeide/duckkeyob
+          tags: aryoumissdeide/neednoodss
